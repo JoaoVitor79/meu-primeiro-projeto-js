@@ -5,8 +5,8 @@
     height: 15px;
     display: flex;
     justify-content: center;
-    gap: 70px;
-    margin-top: 10px;
+    gap: 30px;
+    margin-top: 9px;
   
 
 
@@ -16,7 +16,7 @@
 }
 li{
    display: inline;
-   padding: 20px;
+   padding: 18px;
   
    font-family: "SF Pro Text", "SF Pro Icons", "AOS Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
    font-size: 12px;
@@ -25,7 +25,11 @@ li{
    .list{
     gap: 5px;
 }
-.lupa-nav{
+.search{
+
+    
+    
+
 
 
 }
