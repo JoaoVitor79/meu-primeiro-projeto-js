@@ -11,9 +11,9 @@
 
 
 }
-.menu{
 
-}
+
+
 li{
    display: inline;
    padding: 18px;
@@ -22,14 +22,6 @@ li{
    font-size: 12px;
 }
 
-   .list{
+.list{
     gap: 5px;
-}
-.search{
-
-    
-    
-
-
-
 }
